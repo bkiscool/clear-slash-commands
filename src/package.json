@@ -2,7 +2,7 @@
   "name": "discord-bot-clear-slash-commands",
   "version": "1.0.0",
   "description": "",
-  "license": "ISC",
+  "license": "",
   "author": "",
   "type": "module",
   "main": "index.js",
